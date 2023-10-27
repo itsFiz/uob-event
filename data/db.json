@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "TMRW MY App Release",
+      "body": "Digital banking is part of the broader context for the move to online banking, where banking services are delivered over the internet. The shift from traditional to digital banking has been gradual, remains ongoing, and is constituted by differing degrees of banking service digitization. Digital banking involves high levels of process automation and web-based services and may include APIs enabling cross-institutional service composition to deliver banking products and provide transactions. It provides the ability for users to access financial data through desktop, mobile and ATM services.",
+      "domain": "Digital Banking",
+      "id": 1
+    },
+    {
+      "title": "Udemy Learning",
+      "body": "Udemy is an online learning and teaching marketplace with over 185000 courses. Instructors From Around The World Teach Millions Of Students On Udemy. View Blog. Sign Up Online. Get The App. Highlights: App Available, Lifetime Access.",
+      "domain": "Customer Management",
+      "id": 2
+    },
+    {
+      "title": "Annual Dinner",
+      "details": "Annual Dinner is basically gathering time for either. company, friend, reunion and many more. Since it. annual meaning this event will be doing for every year.",
+      "domain": "PRO",
+      "id": 3
+    },
+    {
+      "title": "Team Lunch",
+      "details": "Team lunches can be a time to network with like minded team members or even staff from other departments. Perhaps a cross-department lunch is in order? It's a great way to have a “company meeting” without the word meeting put into it and instead having some delicious food to share.",
+      "domain": "Global Markets",
+      "id": 4
+    }
+  ]
+}
